@@ -1,0 +1,8 @@
+{
+  "name": "research-tally",
+  "version": "0.1.0",
+  "description": "Counts observed tool-call attempts without storing arguments or calling a model",
+  "author": {
+    "name": "tboydar"
+  }
+}

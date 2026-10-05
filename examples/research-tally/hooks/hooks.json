@@ -1,0 +1,4 @@
+{
+  "description": "In-memory research counter; no file, process, network, or model calls",
+  "modules": ["./register.js"]
+}
